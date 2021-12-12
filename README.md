@@ -1,2 +1,2 @@
 # data200_final
-code for data 200 project
+Here is the R code for Yijun Yang's DATA 200 project.
