@@ -19,6 +19,7 @@ San Francisco.
 
 ## 2.Methods
 Here gives the **full modeling cycle step by step**:
+
 -[How to build qualitive modeling for Airbnb rental market for San Francisco area?](./airbnb_sf_2021.R)
 
 ## 3. Result
