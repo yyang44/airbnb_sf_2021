@@ -1,7 +1,7 @@
 ######
 #
-# Written by Yijun Yang
-#
+# Created by Yijun Yang
+# 
 #       How does San Francisco fit with sharing economy?
 #       Empirical analysis of Airbnb listing rental prices.
 #
