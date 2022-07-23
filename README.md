@@ -15,4 +15,5 @@ hosts on San Francisco Airbnb platform. The results which are consistent across 
 shows that Airbnb’s sharing economy depends greatly on conventional economy model in
 San Francisco.
 
+[Short Version Report, Less Words.](./short_SF_Airbnb.pdf)
 [Full Report on Analysis of Airbnb Listing Rental Price, San Francisco 2021.](./SF_Airbnb.pdf)
