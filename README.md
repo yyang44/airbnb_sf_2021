@@ -1,5 +1,7 @@
 # Airbnb Market Analysis, San Francisco 2021
+> Presented by Yijun Yang
 
+## 1. Intoduction
 Extracting data from Airbnb listings, this study evaluates the influence of conventional economic
 model on the sharing economy in the city of San Francisco. 
 
@@ -15,5 +17,10 @@ hosts on San Francisco Airbnb platform. The results which are consistent across 
 shows that Airbnb’s sharing economy depends greatly on conventional economy model in
 San Francisco.
 
+## 2.Methods
+Here gives the **full modeling cycle step by step**:
+-[How to build qualitive modeling for Airbnb rental market for San Francisco area?](./airbnb_sf_2021.R)
+
+## 3. Result
 - [Short Version Report, Less Words.](./short_SF_Airbnb.pdf)
 - [Full Report on Analysis of Airbnb Listing Rental Price, San Francisco 2021.](./SF_Airbnb.pdf)
