@@ -1,4 +1,4 @@
-# Airbnb Market Analysis
+# Airbnb Market Analysis, San Francisco 2021
 
 Extracting data from Airbnb listings, this study evaluates the influence of conventional economic
 model on the sharing economy in the city of San Francisco. 
