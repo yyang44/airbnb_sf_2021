@@ -1,7 +1,7 @@
 ######
 #
 # Written by Yijun Yang
-# Code for DATA 200 Final Project
+#
 #       How does San Francisco fit with sharing economy?
 #       Empirical analysis of Airbnb listing rental prices.
 #
