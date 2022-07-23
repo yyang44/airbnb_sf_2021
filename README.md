@@ -1,6 +1,6 @@
 # Airbnb Market Analysis
 
-Using data on Airbnb listings, this study evaluates the influence of conventional economic
+Extracting data from Airbnb listings, this study evaluates the influence of conventional economic
 model on the sharing economy in the city of San Francisco. 
 
 This project finds that the model
